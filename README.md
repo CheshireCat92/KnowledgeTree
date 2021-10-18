@@ -1,6 +1,7 @@
 # KnowledgeTree
 
 Basic idea:
+
 An application that allows you to build a tree graph based on a JSON document
 
 Objectives:
