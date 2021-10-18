@@ -1,4 +1,10 @@
 # KnowledgeTree
 
-Main idea:
-create app, that should visualize JSON as Tree View on iOS devices.
+Basic idea:
+An application that allows you to build a tree graph based on a JSON document
+
+Objectives:
+
+- [ ] To learn Combine
+- [ ] To use Combine outside of SwiftUI
+- [ ] Explore MVVM + Combine
